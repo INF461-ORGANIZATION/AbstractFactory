@@ -1,0 +1,6 @@
+/**
+ * AbstractFactory
+ */
+public class AbstractFactory {
+
+}
